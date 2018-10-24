@@ -1,0 +1,11 @@
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\bin\Debug\netcoreapp2.0\Sorteio.API.deps.json
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\bin\Debug\netcoreapp2.0\Sorteio.API.runtimeconfig.json
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\bin\Debug\netcoreapp2.0\Sorteio.API.runtimeconfig.dev.json
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\bin\Debug\netcoreapp2.0\Sorteio.API.dll
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\obj\Debug\netcoreapp2.0\Sorteio.API.csproj.CoreCompileInputs.cache
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\obj\Debug\netcoreapp2.0\Sorteio.API.AssemblyInfoInputs.cache
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\obj\Debug\netcoreapp2.0\Sorteio.API.AssemblyInfo.cs
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\bin\Debug\netcoreapp2.0\Sorteio.API.pdb
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\obj\Debug\netcoreapp2.0\Sorteio.API.dll
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\obj\Debug\netcoreapp2.0\Sorteio.API.pdb
+c:\users\helitonbr\source\repos\Sorteio\Sorteio.API\obj\Debug\netcoreapp2.0\Sorteio.API.csprojAssemblyReference.cache
